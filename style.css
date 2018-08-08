@@ -1,0 +1,61 @@
+::-webkit-scrollbar {
+    width: 5px;
+}
+
+
+/* Track */
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey; 
+    border-radius: 0px;
+}
+ 
+ /* Handle */
+::-webkit-scrollbar-thumb {
+    background: silver; 
+    border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: white; 
+}
+
+
+.greenbc{
+	background: #95fd95;
+}
+.greentext{
+	color :#1ebea5;	
+}
+
+.fullcol{
+	margin: 12px auto;
+	background: white;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.groupnameshow{
+	overflow-y: scroll;
+	height: 620px;
+}
+.marginauto{
+	margin: auto auto;
+}
+
+.icons{
+	font-size: 23px; color:#797373;
+}
+
+.padding{
+padding:12px 5px;
+}
+
+.profilepage{
+	height: 620px;
+	 overflow-y: scroll;
+}
+
+.profilesection{
+	height: 100px;
+	background: #22e4ca;
+}
